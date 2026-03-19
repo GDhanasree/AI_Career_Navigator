@@ -1,0 +1,20 @@
+{
+  "machine learning": {
+    "courses": ["Coursera ML by Andrew Ng"],
+    "docs": ["scikit-learn documentation"],
+    "projects": ["Build a recommendation system"],
+    "time_estimate": "3-4 weeks"
+  },
+  "sql": {
+    "courses": ["SQL for Beginners - Udemy"],
+    "docs": ["W3Schools SQL"],
+    "projects": ["Build a database system"],
+    "time_estimate": "1-2 weeks"
+  },
+  "deep learning": {
+    "courses": ["Deep Learning Specialization"],
+    "docs": ["TensorFlow docs"],
+    "projects": ["Build image classifier"],
+    "time_estimate": "4-6 weeks"
+  }
+}

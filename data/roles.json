@@ -1,0 +1,14 @@
+{
+  "Data Scientist": [
+    "python", "machine learning", "sql", "statistics",
+    "data visualization", "deep learning", "pandas", "numpy"
+  ],
+  "Backend Developer": [
+    "python", "apis", "databases", "django",
+    "flask", "authentication", "microservices"
+  ],
+  "Frontend Developer": [
+    "html", "css", "javascript", "react",
+    "responsive design", "ui ux"
+  ]
+}
